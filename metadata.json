@@ -1,0 +1,6 @@
+{
+  "name": "Bibliography Formatter",
+  "description": "Format raw citations into standard or custom styles, including Indonesian Journal Style. Provides live preview and A-Z sorting capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
